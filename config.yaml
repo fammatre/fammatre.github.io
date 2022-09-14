@@ -1,0 +1,13 @@
+baseURL: 'http://garden.fammatre.org/'
+languageCode: 'en-us'
+title: 'Fammatre Elementary School Garden'
+theme: 'PaperMod'
+
+# Papermod theme options
+params:
+    # Set theme to light
+    defaultTheme: light
+
+    # Don't show the theme toggle
+    disableThemeToggle: true
+
