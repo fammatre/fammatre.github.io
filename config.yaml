@@ -18,4 +18,8 @@ params:
     # Don't show the theme toggle
     disableThemeToggle: true
 
+    # Show social media share buttons on posts
+    ShowShareButtons: true
 
+    # Show suggestions for other posts at the end of posts
+    ShowPostNavLinks: true
