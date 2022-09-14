@@ -3,6 +3,13 @@ languageCode: 'en-us'
 title: 'Fammatre Elementary School Garden'
 theme: 'PaperMod'
 
+# PaperMod search config (search.md and fuse.js)
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
 # Papermod theme options
 params:
     # Set theme to light
@@ -10,4 +17,5 @@ params:
 
     # Don't show the theme toggle
     disableThemeToggle: true
+
 
