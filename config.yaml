@@ -56,3 +56,7 @@ menu:
       name: Who we are
       url: /about/
       weight: 40
+    - identifier: join
+      name: Join Us
+      url: /join-us/
+      weight: 50
