@@ -1,7 +1,7 @@
 # Contribution Guidelines for garden.fammatre.org
 
 If you're not a web developer, or simply don't have time to fix an issue, please
-[open a new issue](https://github.com/fammatre/garden-fammatre-org/issues/new). In the
+[open a new issue](https://github.com/fammatre/fammatre.github.io/issues/new). In the
 new issue, please include a description of what you think should be changed. After
 the issue has been created, a volunteer will review it and act accordingly.
 
