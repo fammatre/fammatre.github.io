@@ -56,11 +56,23 @@ planted during different times of the year.
 
 ### October
 
-TBD
+| Plant    | Start Indoors | Transplant   | Start Outdoors |
+| -------- | ------------- | ------------ | -------------- |
+| Beets    | No            | No           | October 30th   |
+| Carrots  | No            | No           | October 25th   |
+| Kale     | No            | October 20th | No             |
+| Kohlrabi | No            | No           | October 25th   |
+| Peas     | No            | No           | October 10th   |
 
 ### November
 
-TBD
+| Plant    | Start Indoors | Transplant | Start Outdoors |
+| -------- | ------------- | ---------- | -------------- |
+| Arugula  | No            | No         | November 9th   |
+| Lettuce  | No            | No         | November 4th   |
+| Radishes | No            | No         | November 9th   |
+| Spinach  | No            | No         | November 19th  |
+| Turnips  | No            | No         | November 4th   |
 
 ### December
 
