@@ -19,7 +19,9 @@ Fammatre Elementary is located in a [Plant Hardiness Zone 9B](https://planthardi
 
 ## Monthly Schedule
 
-The following is a monthly breakdown for recommended garden activities.
+The following is a monthly breakdown for recommended garden activities. It
+should be used as a guideline (not a hard set of rules) for what may be
+planted during different times of the year.
 
 ### August
 
