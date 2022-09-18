@@ -23,6 +23,9 @@ The following is a monthly breakdown for recommended garden activities. It
 should be used as a guideline (not a hard set of rules) for what may be
 planted during different times of the year.
 
+Dates shown are the **latest** dates that something should be planted. Planting
+a few weeks earlier than the dates listed below is fine.
+
 ### August
 
 | Plant          | Start Indoors | Transplant  | Start Outdoors |
