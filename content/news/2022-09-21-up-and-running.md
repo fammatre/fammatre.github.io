@@ -4,7 +4,7 @@ date: 2022-09-20T08:24:12-05:00
 author: "Jon"
 hideSummary: true
 cover:
-    image: "/images/2022-09-20-garden-bed-purple-dragon-carrots.jpeg"
+    image: "/images/2022-09-20-garden-bed-purple-dragon-carrots.jpg"
     alt: "a garden bed where 4th graders have planted purple dragon carrots" # alt text
     caption: "A garden bed where 4th graders have planted purple dragon carrots"
     relative: false # when using page bundles set this to true
@@ -53,6 +53,13 @@ be to replace the leaky PVC between raised beds 1 and 2 which irrigates raised
 bed 6 (the raised bed in the center of raised beds 1-5). Note that irrigation
 for raised beds 1 and 2 is provided by the source between raised beds 4 and 5,
 so this project does not affect the operation of raised beds 1 and 2.
+
+New pressure regulators have been ordered to account for the high water
+pressure available at the garden. The water pressure at the garden
+[is a bit over 80psi](/images/2022-09-21-pressure-gauge.jpg). However, the regulators
+currently installed are rated up to 70 psi. We've already broken several of the
+common regulators found at our local big box store. As soon as the new
+regulators arrive, we'll install them right away.
 
 In addition, the numbers marking each raised bed are in need of repair. We're
 on the lookout for a way to replace them. If you have any ideas, please let us

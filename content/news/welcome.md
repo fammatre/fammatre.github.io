@@ -4,7 +4,7 @@ date: 2022-09-14T16:22:48-07:00
 author: "Jon"
 hideSummary: true
 cover:
-    image: "/images/irrigation-drip-lines.jpeg"
+    image: "/images/irrigation-drip-lines.jpg"
     alt: "Irrigation drip lines in a garden bed" # alt text
     caption: "New irrigation drip lines in Fammatre's Garden installed in September 2022"
     relative: false # when using page bundles set this to true
