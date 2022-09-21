@@ -14,7 +14,9 @@ cover:
 **Woo! The garden is officially up and running!**
 
 Yesterday, the 4th graders came in and planted some Purple Dragon Carrots. The
-pictures you see here is the result of their effort.
+pictures you see [here](/images/2022-09-20-garden-bed-purple-dragon-carrots.jpg)
+and [here](/images/2022-09-20-garden-bed-purple-dragon-carrots-2.jpg) is the
+result of their efforts.
 
 If everything goes well, we should start seeing sprouts in 12-18 days. Harvest
 time for these beauties should be in early December (possibly as early as
