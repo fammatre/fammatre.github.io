@@ -22,6 +22,10 @@ November 30th).
 
 ## Completed Projects
 
+A new hummingbird feeder was added near raised bed 5! I'm looking forward to
+seeing some of our feathered friends. Hopefully they can help us with
+wildflower pollination this spring.
+
 As far as other projects go, the drip irrigation lines are all up and running
 now for garden beds 1-5. The old 1/2" drip emitter line with 18" spacing that 
 was in the beds when we started was quite leaky and weathered. So, that was all
